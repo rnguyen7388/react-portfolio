@@ -11,6 +11,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 ## GitHub link
-     https://rnguyen7388.github.io/react-portfolio/
+   https://rnguyen7388.github.io/react-portfolio/
 ## Questions
     If there are any questions, please contact my GitHub: https://github.com/rnguyen7388
