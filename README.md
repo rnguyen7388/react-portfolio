@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   Portfolio updated using react with new links to projects, social medias, and resume.
 
 # Image
-![](images/portfolio.jpg)
+![](public/images/portfolio.jpg)
 
 
 ## Badges
