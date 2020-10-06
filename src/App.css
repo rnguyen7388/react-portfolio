@@ -1,0 +1,150 @@
+.about h6 {
+  font-size: 14px;
+  font-family: Georgia, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2.1px;
+  font-weight: normal;
+  margin-bottom: 12px;
+  color: black;
+  padding-left: 50px;
+}
+.about h4 {
+  font-size: 16px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  color: black;
+  padding-left: 50px;
+}
+.about h3 {
+  font-size: 48px;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  color: black;
+  padding-left: 50px;
+  padding-top: 50px;
+}
+
+p {
+  text-indent: 20px;
+  padding-right: 20px;
+}
+
+h3 {
+  animation: heartBeat;
+  animation-duration: 1.5s;
+}
+
+.about p {
+  font-family: Georgia, serif;
+  max-width: 540px;
+  color: black;
+  padding-left: 50px;
+  margin-bottom: 40px;
+}
+
+.info {
+  padding-left: 50px;
+}
+
+footer {
+  background: #000;
+  min-height: 50px;
+  position: relative;
+  bottom: -200px;
+  background: #fff;
+  padding: 30px;
+  text-align: center;
+}
+
+.body-section {
+  position: relative;
+  background-image: linear-gradient(217deg, #FCFDAF, rgba(255,0,0,0) 70.71%),
+  linear-gradient(127deg, #1C3738, rgba(0,255,0,0) 70.71%);
+}
+
+.container-fluid {
+  min-height: 500px;
+  border-radius: 12px;
+  position: relative;
+  background: #fff;
+  padding: 30px;
+  box-shadow: 0px 20px 60px 0px;
+  }
+
+.box {
+  color: #222222;
+  box-shadow: 0px 20px 60px 0px;
+  vertical-align: middle;
+  align-self: center;
+  text-align: left;
+}
+
+.nav-top {
+  padding-top: 50px;
+}
+
+.selfie {
+  /* box-shadow: 0px 20px 60px 0px;
+  height: auto;
+  width:100%; */
+  max-width: 100%;
+    min-width: 300px;
+    height: auto;
+}
+
+/* Portfolio CSS */
+.portfolio {
+  text-align: center;
+  padding-bottom: 75px;
+}
+
+.img-fluid{
+  transition: transform .2s;
+  margin: 0 auto;
+}
+
+.img-fluid:hover {
+  transform: scale(.9);
+}
+
+.portfolio {
+  animation: fadeInDown;
+  animation-duration: 2s;
+}
+.portfolio-center {
+  text-align: center;
+}
+
+.project-item {
+  padding: 20px;
+}
+
+
+/* Contact CSS */
+
+.contact {
+  text-align: center;
+  padding-right: 50px;
+}
+
+.social-media {
+  text-align: center;
+  padding-right: 90px;
+}
+
+.github {
+  color: #211F1F;
+}
+
+.fa-github:hover{
+  color:grey !important;
+}
+
+.linkedin {
+  color: #0072b1;
+}
+
+.fa-linkedin:hover{
+  color:#000080 !important;
+}
