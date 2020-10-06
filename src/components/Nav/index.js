@@ -8,13 +8,13 @@ export default function () {
             <div className="container">
               <ul className="nav navbar-nav ml-auto">
                 <li className="nav-item">
-                  <a className="nav-link" href="/">About</a>
+                  <a className="nav-link" href="/react-portfolio/">About</a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/portfolio">Portfolio</a>
+                  <a className="nav-link" href="/react-portfolio/portfolio">Portfolio</a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="/contact">Contact</a>
+                  <a className="nav-link" href="/react-portfolio/contact">Contact</a>
                 </li>
               </ul>
             </div>
